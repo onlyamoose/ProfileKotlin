@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="txtName">Joe</string>
+    <string name="btnShowProfile">Show Profile</string>
+    <string name="txtProfileInfo">Hello, my name is Joe.\nI enjoy gaming, reading and programming.</string>
+</resources>
